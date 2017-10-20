@@ -14,7 +14,7 @@ body{
 .header_name {
 
 	
-	font-size: 30px;
+	font-size: 20px;
 	font-style: bold;
 	text-align: center;
 	margin-left: 10%;
@@ -37,22 +37,26 @@ body{
 	clear:both;
 	width: 650px;
 	border-style: solid;
-	border-width: 5px;
+	border-width: 2px;
+	border-color: #dddddd;
 	padding: 20px;
 }
 
 img {
 	float:left;
+	padding-right: 10px;
 }
 
 h3 {
 	clear: :both;
 	color:#4aaaa5;
-	font-size: 30px;
+	font-size: 20px;
+	padding: 10px;
 }
 
 p {
 	line-height: 20px;
+	color:#777777;
 }
 
 
