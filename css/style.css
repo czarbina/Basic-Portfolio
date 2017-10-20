@@ -1,4 +1,42 @@
-header {
-	background-color: chartreuse;
-	font-size: 30px;
+body{
+
+	font-family: "Times New Roman", Times, serif;
+
 }
+
+header {
+
+	box-sizing: border-box;
+}
+
+.header_name {
+
+	float:left;
+	font-size: 30px;
+	font-style: bold;
+	text-align: center;
+	box-sizing: border-box;
+	margin-left: 10%;
+	width: 20%;
+	padding: 15px;
+	background-color:#4aaaa5;
+	color: #ffffff;
+}
+
+.header_tabs {
+
+	float:left;
+	box-sizing: border-box;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 100px;
+	color:#777777;
+	background-color: #ffffff;
+	border-color: #cccccc;
+
+}
+
+.about_me {
+	clear:both;
+}
+
