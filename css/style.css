@@ -7,7 +7,6 @@ body{
 
 .heading {
 	font-family: Georgia, Times, "Times New Roman", serif;
-	box-sizing: inherit; 
 	border: 1px solid; 
 }
 
@@ -22,8 +21,9 @@ body{
 }
 
 .header_tabs {
-
-	
+	margin:auto;
+	text-align: right;
+	box-sizing: inherit;
 	padding:15px;
 	color:#777777;
 	border-color: #cccccc;
